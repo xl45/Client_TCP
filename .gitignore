@@ -1,1 +1,6 @@
 tcp_client
+Client_TCP.cbp
+bin/
+obj/
+filelist.txt
+README.txt
