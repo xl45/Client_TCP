@@ -2,5 +2,4 @@ tcp_client
 Client_TCP.cbp
 bin/
 obj/
-filelist.txt
 Client_TCP.layout
