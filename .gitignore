@@ -3,5 +3,4 @@ Client_TCP.cbp
 bin/
 obj/
 filelist.txt
-README.txt
 Client_TCP.layout
